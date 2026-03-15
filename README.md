@@ -1,7 +1,7 @@
-## 🐍 Contribution Snake
+## About ME
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZeraGaram/ZeraGaram/output/github-contribution-grid-snake.svg"/>
+  I am a developer from Myanmar. I mainly focus for games.
 </p>
 
 ## 📸 NotePad Preview
