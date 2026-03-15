@@ -2,7 +2,7 @@
 
 <p align="center">
   I am a developer from Myanmar. I mainly focus for games.
-  Most people knowm me as Slyvie cause i'm also a vtuber.
+  Most people know me as Slyvie cause i'm also a vtuber.
   For people from school. it's me "Aung Khant Thar".
 </p>
 
